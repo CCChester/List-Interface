@@ -1,0 +1,38 @@
+Size:0
+Size:1
+First:1
+Last:1
+
+Size:0
+
+Size:3
+First:1
+Last:5
+
+Size:7
+First:1
+Last:7
+
+First:2
+First:3
+First:3
+First:4
+First:4
+First:7
+Find(1): 0
+Size:6
+Find(1): -1
+
+Find(7): 5
+
+Size:5
+First:2
+Last:7
+
+Size:4
+First:2
+Last:6
+
+Size:5
+First:2
+Last:6
